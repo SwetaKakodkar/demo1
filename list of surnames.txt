@@ -2,9 +2,7 @@ Dalal
 Kakodkar
 Kapoor
 Mittal
-<<<<<<< HEAD
 Khan
-=======
->>>>>>> master
+khanna
 
 
