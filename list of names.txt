@@ -6,9 +6,6 @@ Minal
 jaya
 Kunal
 Kareena
-<<<<<<< HEAD
-Deepika
-=======
 Deepika
 Paresh
->>>>>>> master
+Niraj
